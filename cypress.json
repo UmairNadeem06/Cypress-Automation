@@ -1,0 +1,6 @@
+{
+    "baseUrl" : "https://opensource-demo.orangehrmlive.com/",
+    "ignoreTestFiles" : "**/examples*",
+    "viewPortHeight" : 768,
+    "viewPortWidth" : 1024
+}
